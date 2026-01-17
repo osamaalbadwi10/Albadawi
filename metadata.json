@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Albadawi - Albadawi",
+  "description": "منصة تواصل اجتماعي متطورة تتيح الدردشة الجماعية ومشاركة الفيديوهات مع نظام ذكاء اصطناعي متكامل باسم البدوي.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
